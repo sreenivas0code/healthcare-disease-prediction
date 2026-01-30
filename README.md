@@ -21,3 +21,12 @@ Review-2 completed (Initial ML model implementation)
 - Improve dataset size
 - Apply advanced ML algorithms
 - Integrate with healthcare applications
+
+## Review-2 Status
+✔ Initial dataset creation  
+✔ Data preprocessing  
+✔ Logistic Regression model implementation  
+✔ Model evaluation using accuracy  
+
+
+

@@ -32,3 +32,8 @@ if result[0] == 1:
     print("Disease Prediction: POSITIVE")
 else:
     print("Disease Prediction: NEGATIVE")
+
+
+
+# Review-2 completed: Initial ML model
+
