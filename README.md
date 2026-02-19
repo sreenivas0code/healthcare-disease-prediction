@@ -34,5 +34,11 @@ Review-2 completed (Initial ML model implementation)
 - Implemented Decision Tree and Random Forest models
 - Compared performance of multiple ML algorithms
 
+## Model Comparison Results 
+- Logistic Regression Accuracy: ~90%
+- Decision Tree Accuracy: 100%
+- Random Forest Accuracy: 100%
+
+Note: Dataset is synthetically generated for learning and comparison purposes.
 
 
