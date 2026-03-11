@@ -9,6 +9,8 @@ print("Loading dataset...")
 
 data = pd.read_csv("dataset.csv")
 
+data.columns = data.columns.str.lower()
+
 X = data.drop("disease", axis=1)
 y = data["disease"]
 
